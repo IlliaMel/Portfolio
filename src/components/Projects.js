@@ -197,7 +197,7 @@ export const Projects = () => {
                                       Plus, your data is always safe and secure with password protection. The app also
                                       provides detailed charts and analysis, giving you a comprehensive view of your
                                       financial situation. With all these features and more, our app is the perfect tool
-                                      to help you achieve your financial goals.<ExternalLink href="https://github.com/IlliaMel" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
+                                      to help you achieve your financial goals.<ExternalLink href="https://github.com/IlliaMel/MoneySaver" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
 
                                     </p>
                                   </div>
@@ -221,7 +221,7 @@ export const Projects = () => {
                                     content="live project" />
 
                                 <div className="flex gap-6 relative bubbleContentHold">
-                                  <ExternalLink href="">
+                                  <ExternalLink href="https://github.com/IlliaMel/MoneySaver">
                                     <BsGithub className=" inline-block white text-3xl" id="github" />
                                   </ExternalLink>
                                   <ExternalLink href="">
@@ -297,7 +297,7 @@ export const Projects = () => {
 
                                       Filingo: Learn English Language" is the ultimate app for anyone looking to
                                       improve their English language skills. Whether you're a beginner or an
-                                      advanced learner, our app has something for everyone..<ExternalLink href="https://github.com/IlliaMel" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
+                                      advanced learner, our app has something for everyone..<ExternalLink href="https://github.com/DIAorganization/Filingo" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
 
                                     </p>
                                   </div>
@@ -321,7 +321,7 @@ export const Projects = () => {
                                     content="live project" />
 
                                 <div className="flex gap-6 relative bubbleContentHold">
-                                  <ExternalLink href="">
+                                  <ExternalLink href="https://github.com/DIAorganization/Filingo">
                                     <BsGithub className=" inline-block white text-3xl" id="github" />
                                   </ExternalLink>
                                   <ExternalLink href="">
@@ -371,7 +371,7 @@ export const Projects = () => {
 
                                       WeatherApp: Your Daily Weather Companion" is the must-have app for anyone who wants to stay on top of
                                       the latest weather conditions. With accurate and reliable forecasts, you'll always know what to
-                                      expect before you step out the door.<ExternalLink href="https://github.com/IlliaMel" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
+                                      expect before you step out the door.<ExternalLink href="https://github.com/IlliaMel/WeatherApp" className=" uppercase text-yellow-400 hover:text-yellow-500"> See more on my github </ExternalLink> "
 
                                     </p>
                                   </div>
@@ -395,7 +395,7 @@ export const Projects = () => {
                                     content="live project" />
 
                                 <div className="flex gap-6 relative bubbleContentHold">
-                                  <ExternalLink href="">
+                                  <ExternalLink href="https://github.com/IlliaMel/WeatherApp">
                                     <BsGithub className=" inline-block white text-3xl" id="github" />
                                   </ExternalLink>
                                   <ExternalLink href="">
@@ -462,7 +462,7 @@ export const Projects = () => {
                                     content="live project" />
 
                                 <div className="flex gap-6 relative bubbleContentHold">
-                                  <ExternalLink href="">
+                                  <ExternalLink href="https://github.com/IlliaMel">
                                     <BsGithub className=" inline-block white text-3xl" id="github" />
                                   </ExternalLink>
                                   <ExternalLink href="">

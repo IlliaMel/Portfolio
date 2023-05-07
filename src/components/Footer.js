@@ -15,9 +15,9 @@ export const Footer = () => {
           <Col size={12} sm={6} className="text-center text-sm-end pt-3">
             <div className="social-icon">
               <ExternalLink href=""> <img src={linkedin}  /> </ExternalLink>
-              <ExternalLink href=""> <img src={telegram} style={{transform: "scale(1.35)"}} /> </ExternalLink>
+              <ExternalLink href="https://t.me/Andromeda123612"> <img src={telegram} style={{transform: "scale(1.35)"}} /> </ExternalLink>
               <ExternalLink href="">  <img src={email} style={{transform: "scale(1.3)"}} /> </ExternalLink>
-              <ExternalLink href="">  <img src={github} style={{transform: "scale(1.32)"}} /> </ExternalLink>
+              <ExternalLink href="https://github.com/IlliaMel">  <img src={github} style={{transform: "scale(1.32)"}} /> </ExternalLink>
             </div>
             <p className=" capitalize">Copyright 2023. Infinity</p>
           </Col>
