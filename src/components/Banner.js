@@ -59,7 +59,9 @@ export const Banner = () => {
               <div>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hey! I'm Illia`} <span className="txt-rotate" dataPeriod="50" data-rotate='[ "An Android Developer", "A Software Engineer"]'><span className="wrap">{text}</span></span></h1>
-                  <p className=" capitalize">Hello 👋 I'm a 3rd year Software Engineering student with experience in technologies such as Android SDK </p>
+                  <p className=" capitalize">Hello 👋 I am an enthusiastic and dedicated Android Developer. I am always eager to embrace
+                    new technologies and stay up-to-date with the latest trends in the Android ecosystem.Feel free to reach out
+                    if you'd like to discuss your next Android project or simply want to connect with a fellow developer! </p>
               </div>
             </TrackVisibility>
           </Col>
