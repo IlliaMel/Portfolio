@@ -186,13 +186,26 @@ code {
 
 #phoneScreenImg{
   position: absolute;
-  top: -2.5%;
+  top: 0%;
   width: 100%;
 }
 
 #deviceContainer{
   display: flex;
   float: left;
+}
+
+#deviceContainerCenter{
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+#deviceContainerOne{
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  transform: rotate(90deg) scale(1.65); /* Rotate 90 degrees */
 }
 
 .fade-in {
